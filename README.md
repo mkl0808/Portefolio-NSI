@@ -1,2 +1,8 @@
 # Portefolio-NSI
-Aperçu de mon travail en spécialité NSI (TP et projet)
+Ce dépôt contient un aperçu de mon travail en spécialité NSI au lycée.
+
+## Contenu
+- TP de Première
+- TP de Terminale
+- Projets de Première
+- Projets de Terminale
